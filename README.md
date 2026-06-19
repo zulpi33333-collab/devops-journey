@@ -1,6 +1,6 @@
 # devops-journey
 ## About 
-Welcome to my DevOps learning journey. ㄴ앙ㄴㄹ 러ㅜ하넝
+Welcome to my DevOps learning journey. 
 My goal: 
 **DevOps Engineer > DevSecOps  Engineer > Cloud Architect**
 I will document everything I learn and build in this repository.
